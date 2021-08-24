@@ -15,7 +15,7 @@ html {
     background: #E6E1D6;
     width: 70px;
     height: 70px;
-    background-image: url(../img/button_up.png);
+    background-image: url(img/button_up.png);
     background-size: cover;
     align-items: center;
     text-decoration: none;
@@ -62,7 +62,7 @@ html {
     margin: auto;
     background: #E6E1D6;
     background-repeat: no-repeat;
-    background-image: url(../img/logo_img.png);
+    background-image: url(img/logo_img.png);
     background-position: center;
     display: flex;
     justify-content: flex-end;
@@ -99,7 +99,7 @@ html {
 .top_block3 {
     height: 24px;
     width: 24px;
-    background-image: url(../img/shop_icon.png);
+    background-image: url(img/shop_icon.png);
     background-repeat: no-repeat;
     background-position: center;
     margin: 0px 50px 0px 40px;
@@ -113,7 +113,7 @@ html {
     margin: auto;
     width: 1440px;
     height: 751px;
-    background-image: url(../img/top_img.png) ;
+    background-image: url(img/top_img.png) ;
     
 }
 
@@ -226,32 +226,32 @@ html {
 }
 .market_1 {
     background-repeat: no-repeat;
-    background-image: url(../img/market/image\ 1.png);
+    background-image: url(img/market/image\ 1.png);
     background-position: top;
 }
 .market_2 {
     background-repeat: no-repeat;
-    background-image: url(../img/market/image\ 2.png);
+    background-image: url(img/market/image\ 2.png);
     background-position: top;
 }
 .market_3 {
     background-repeat: no-repeat;
-    background-image: url(../img/market/image\ 3.png);
+    background-image: url(img/market/image\ 3.png);
     background-position: top;
 }
 .market_4 {
     background-repeat: no-repeat;
-    background-image: url(../img/market/image\ 4.png);
+    background-image: url(img/market/image\ 4.png);
     background-position: top;
 }
 .market_5 {
     background-repeat: no-repeat;
-    background-image: url(../img/market/image\ 5.png);
+    background-image: url(img/market/image\ 5.png);
     background-position: top;
 }
 .market_6 {
     background-repeat: no-repeat;
-    background-image: url(../img/market/image\ 6.png);
+    background-image: url(img/market/image\ 6.png);
     background-position: top;
 }
 .market_h2 {
@@ -294,7 +294,7 @@ html {
     border-color: black;
     margin: auto;
     background-color: #CFACAD;
-    background-image: url(../img/bottle_img.png);
+    background-image: url(img/bottle_img.png);
     background-repeat: no-repeat;
 }
 
@@ -349,7 +349,7 @@ html {
     margin: 0px auto 0px auto;
     height: 600px;
     background-color: #E6E1D6;
-    background-image: url(../img/butit_img.png);
+    background-image: url(img/butit_img.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -495,7 +495,7 @@ html {
     height: 480px;
     width: 1440px;
     margin: auto;
-    background-image: url(../img/companyes_img.png);
+    background-image: url(img/companyes_img.png);
 }
 
 
@@ -505,7 +505,7 @@ html {
     width: 1440px;
     height: 1080px;
     background: white;
-    background-image: url(../img/oogurets_img.png);
+    background-image: url(img/oogurets_img.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     margin: auto;
@@ -634,7 +634,7 @@ html {
     height: 960px;
     width: 1440px;    
     background: #E6E1D6;
-    background-image: url(../img/story_img.png);
+    background-image: url(img/story_img.png);
     background-repeat: no-repeat;
     margin: auto;
 }
